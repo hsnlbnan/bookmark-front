@@ -1,5 +1,3 @@
-import { useState } from "react";
-import ReactLogo from "./assets/react.svg";
 import { Avatar, Box, Button, Flex, Text } from "@chakra-ui/react";
 import Search from "./components/search";
 import Logo from "./assets/logo.svg";
